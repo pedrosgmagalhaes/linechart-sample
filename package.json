@@ -1,5 +1,6 @@
 {
   "name": "LineChartSample",
+  "author": "Pedro Magalhaes",
   "version": "0.0.1",
   "private": true,
   "scripts": {
